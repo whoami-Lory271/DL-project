@@ -5,10 +5,8 @@ Deep learning project
 
 * https://towardsdatascience.com/how-to-apply-transformers-to-any-length-of-text-a5601410af7f
 
-### TODO
+## TODO
 
-* tokenizzazione e preprocessing
+* tokenizzazione e preprocessing & scaricare dataset e crea dataset e dataloader pytorch
 
-* scaricare dataset e crea dataset e dataloader pytorch
-
-* implementazione multihead come da paper
+* implementazione da paper
