@@ -1,14 +1,6 @@
-# DL-project
-Deep learning project
+# Deep Learning Project 2022/2023
 
-## links
-
-* https://towardsdatascience.com/how-to-apply-transformers-to-any-length-of-text-a5601410af7f
-
-* https://github.com/Lightning-AI/lightning
-
-## TODO
-
-* tokenizzazione e preprocessing & scaricare dataset e crea dataset e dataloader pytorch
-
-* implementazione da paper
+# Authors
+* Andrea Celestini  1845289
+* Lorenzo De Santis 1849114
+* Simone Di Rienzo 1844531
