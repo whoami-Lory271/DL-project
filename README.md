@@ -5,4 +5,4 @@
 * Lorenzo De Santis 1849114
 * Simone Di Rienzo 1844531
 
-[Colab](https://colab.research.google.com/github/whoami-Lory271/DL-project/blob/main/DLProject.ipynb)
+[Link to Colab](https://colab.research.google.com/github/whoami-Lory271/DL-project/blob/main/DLProject.ipynb)
